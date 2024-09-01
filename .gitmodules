@@ -1,0 +1,3 @@
+[submodule "Indico-Notice-Generator-Plugin"]
+	path = Indico-Notice-Generator-Plugin
+	url = https://github.com/JJsupercoder/Indico-Notice-Generator-Plugin

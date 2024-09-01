@@ -1,0 +1,1 @@
+window.TRANSLATIONS = {"indico":{"":{"domain":"indico","lang":"en_US"}},"indico_pdf_generator":{"":{"domain":"indico_pdf_generator","lang":"en_US"}}};
